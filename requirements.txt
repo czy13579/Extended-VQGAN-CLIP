@@ -1,0 +1,8 @@
+ftfy==6.2.0
+omegaconf==2.3.0
+einops==0.8.0
+cn_clip==1.5.0
+torch==2.1.2
+taming-transformers==0.0.1
+git+https://github.com/crowsonkb/guided-diffusion
+git+https://github.com/openai/CLIP.git
